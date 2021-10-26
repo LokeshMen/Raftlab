@@ -1,0 +1,16 @@
+# I added book(),author() and magazine() methods in server.js file to read data from respective .csv files
+
+# http://localhost:3000/getBooks  -Get Books api
+# http://localhost:3000/getAuthors  -Get Authors api
+# http://localhost:3000/getMagazines  -Get Magazines api
+
+# http://localhost:3000/getbyisbn  -  Find a book or magazine by its ISBN.
+
+# http://localhost:3000/getbyemail  - Find all books and magazines by their authors’ email.
+
+# http://localhost:3000/getbytitle  - Print out all books and magazines with all their details sorted by title. This sort should be
+done for books and magazines together.
+
+# http://localhost:3000/addbook
+# http://localhost:3000/addmagazine   -- Adding a book and a magazine to respective csv file and for this two api's added th userInterface also.so, you can add data from UI
+
